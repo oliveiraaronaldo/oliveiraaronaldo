@@ -3,7 +3,7 @@
 ### Bem-Vindos!
 
 Sou apaixonado em tecnologia desde pequeno, mas só recentemente ingressei na área de tecnologia da informação.
-Atualmente estou passando pelo processo de mudança de carreia, através de cursos em plataformas e universidades, tenho adquirido conhecimento e experiência na área.
+Atualmente estou passando pelo processo de mudança de carreia, e através de cursos em plataformas e universidades, tenho adquirido conhecimento e experiência na área.
 
 ## CONECTE-SE COMIGO!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/oliveiraaronaldo/ )
